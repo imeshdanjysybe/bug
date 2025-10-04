@@ -1,8 +1,8 @@
 module.exports = {
 
-  BOT_TOKEN: "TOKEN_BOT_LO",
+  BOT_TOKEN: "8343610873:AAFe80ZgfIocQyYzAPC62xzQbk4M3hy0QVw",
 
-  OWNER_ID: ["7629492264"],
+  OWNER_ID: ["1803857247"],
 
 };
 
